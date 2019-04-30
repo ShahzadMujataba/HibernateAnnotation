@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Compressed/FirstHibernate/FirstHibernate/hibernate jar/xerces-2.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
